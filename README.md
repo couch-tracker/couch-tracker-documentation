@@ -12,6 +12,7 @@ This repository contains all the documents and design decisions we've made.
 - For everything the app does locally, completely free
 - Low (or zero) licensing/hosting fees, low architectural complexity
 - User data is owned by each user, and is always available to them. This data is in an open format
+- Focused on user data: discover/explore sections and the likes may have a place, but it is not central
 - Fast and simple
 
 

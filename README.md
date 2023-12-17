@@ -22,7 +22,4 @@ The app stores the user data in a file, logically owned by the user. The file ma
 
 If the file is in the user's partition (unmanaged), the app will assume the file can be read and modified by other processes (e.g. Syncthing to sync it between multiple devices).
 
-All the shows/movies/episodes/collections/actors referenced by the last open user data file will be downloaded and kept in sync automatically, this time in a local database owned by the app.
-This local data will be kept for a brief period of time after it is detected as unused, so switching between different user data files won't cause a complete re-download of everything.
-
-Notifications, widgets, and all other aspects of the app that don't require active interactions will reference the last open user data file.
+All the shows/movies/episodes/collections/actors referenced by the user data file will be downloaded and kept in sync automatically, this time in a local database owned by the app.

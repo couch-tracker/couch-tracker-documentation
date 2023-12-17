@@ -11,7 +11,7 @@ This repository contains all the documents and design decisions we've made.
 - No ads, no trackers
 - For everything the app does locally, completely free
 - Low (or zero) licensing/hosting fees, low architectural complexity
-- User data is owned by and hosted by the respective user
+- User data is owned by each user, and is always available to them. This data is in an open format
 - Fast and simple
 
 

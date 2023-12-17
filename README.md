@@ -7,8 +7,9 @@ This repository contains all the documents and design decisions we've made.
 
 ## Tenets
 
-- Free and open-source
-- No ads, trackers, subscriptions, etc.
+- Open-source
+- No ads, no trackers
+- For everything the app does locally, completely free (on the other hand, a managed cloud service could be for paying users only)
 - Maintaining and developing the app can be an hobby: low (or zero) fees, low architectural complexity, supported by the community
 - User data is owned by and hosted by the respective user
 - Fast and simple

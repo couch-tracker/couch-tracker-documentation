@@ -8,12 +8,12 @@ This repository contains all the documents and design decisions we've made.
 ## Tenets
 
 - Open-source
-- no ads, no trackers and no third party integrations which are not strictly necessary to make the app work
-- no paywalling for features done locally and don't require an ongoing cost from us
-- Low (or zero) licensing/hosting fees, low architectural complexity
+- Fast and simple
+- No ads, no trackers and no third party integrations which are not strictly necessary to make the app work
+- No paywalling for features done locally and that don't require an ongoing cost from us
+- As much client-side code as possible, as fewer dependencies on us as possible
 - User data is owned by each user, and is always available to them. This data is in an open format
 - Focused on user data: discover/explore sections and the likes may have a place, but it is not central
-- Fast and simple
 
 
 ## General overview
